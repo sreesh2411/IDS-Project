@@ -10,10 +10,12 @@ As part of the Airbnb Inside initiative, this dataset describes the listing acti
 
 ## Taks carried out:
 ```
-Data Preprocessing
-Visualizations
-Inferences drawn
-Hypothesis Testing done
+1. Data Preprocessing
+- Cleaning the Data
+- Normalizing the Data
+2. Data Visualizations
+3. Drawing Inferences
+4. Performing Hypothesis Testing
 ```
 
 ## Team Members:
